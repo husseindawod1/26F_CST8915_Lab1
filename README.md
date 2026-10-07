@@ -706,3 +706,4 @@ Open **All resources** in the subscription you used and check for anything creat
 - [ ] Your demo video and submission files are saved and accessible.
 - [ ] All Azure resources created for this lab have been deleted, including any created outside the dedicated group.
 - [ ] The dedicated lab resource group has been deleted, if you used one.
+# 26F_CST8915_Lab1
