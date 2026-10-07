@@ -35,3 +35,7 @@ It fits into the microservices architecture by being what customers interact wit
 The storefront is responsible for displaying the application to the user, the user interface. It uses Vue.js, which is a JavaScript framework. This is because it is a very fast-loading framework that has a good state management structure, similar to React.js. This keeps the information and the current data up to date.
 
 It fits into the microservices architecture by being what the customer sees, and through that, they can browse the products and make orders. It interacts with the order service and the product service. In the product service, there is the browsing of the products on the UI itself, and in terms of the order service, the storefront allows you to make orders with the products by browsing through the product catalog.
+
+## Acknowledgments
+
+AI Disclaimer: I used AI LLMs to help me troubleshoot the SSH connection. As well, I used ChatGPT to help fix the technical explanation paragraphs in terms of grammar and structure, I **did not** ask ChatGPT to create the explanations for me.
